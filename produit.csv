@@ -1,51 +1,51 @@
-id_produit,"nom_produit","prix","stock"
-1,Ventilateurs,11271,91
-2,Robes,470557,97
-3,Sweatshirts,954181,2
-4,Ustensiles de cuisine,858109,35
-5,Stockage et organisation,210830,36
-6,Probook,230423,86
-7,Meubles,894145,78
-8,Baskets,719366,20
-9,Cartes Son Externes,659546,37
-10,Clavier,875820,89
-11,Windows,550883,25
-12,Baskets,584110,43
-13,Robes,449285,90
-14,Accessoires coutellerie et couteaux,4956,76
-15,Jupes,292138,44
-16,Fontaines d'Eau,575257,84
-17,Fontaines d'Eau,787007,75
-18,Cartes Graphiques,766906,76
-19,Cartes Son Externes,858201,94
-20,Sweatshirts,599412,43
-21,Probook,98197,28
-22,Accessoires coutellerie ,136785,18
-23,Souris,617761,91
-24,Disque Dur Externe SSD,202258,80
-25,Meubles,901290,17
-26,Cartes Son Externes,113496,8
-27,vestes,426669,93
-28,Lecteurs Optique Externe,238889,31
-29,Disques Durs Internes,734408,51
-30,Gaming,124969,34
-31,Meubles,765401,97
-32,Cocottes & Plats de Cuisson,333861,36
-33,Literie,167024,81
-34,Clé USB,855162,79
-35,Meubles,299711,94
-36,Windows,394547,89
-37,Ensemble Pyjama,674997,37
-38,Ventilateurs,591570,63
-39,Pantalon,640181,20
-40,Ventilateurs,984815,67
-41,Hauts ,604564,72
-42,Imprimantes,858380,0
-43,Souris,394928,4
-44,Casseroles,487965,60
-45,Quincaillerie,545697,29
-46,Imprimantes,163324,56
-47,Ventilateurs,429932,0
-48,Disques Durs Internes,168411,13
-49,Manteaux,783796,63
-50,Ventilateurs,165441,98
+id_produit,"nom_produit","prix","stock",id_categorie
+1,Ventilateurs,11271,91,1
+2,Robes,470557,97,2
+3,Sweatshirts,954181,2,3
+4,Ustensiles de cuisine,858109,35,4
+5,Stockage et organisation,210830,36,5
+6,Probook,230423,86,6
+7,Meubles,894145,78,7
+8,Baskets,719366,20,8
+9,Cartes Son Externes,659546,37,9
+10,Clavier,875820,89,10
+11,Windows,550883,25,11
+12,Baskets,584110,43,12
+13,Robes,449285,90,13
+14,Accessoires coutellerie et couteaux,4956,76,14
+15,Jupes,292138,44,15
+16,Fontaines d'Eau,575257,84,16
+17,Fontaines d'Eau,787007,75,17
+18,Cartes Graphiques,766906,76,18
+19,Cartes Son Externes,858201,94,19
+20,Sweatshirts,599412,43,20
+21,Probook,98197,28,21
+22,Accessoires coutellerie ,136785,18,22
+23,Souris,617761,91,23
+24,Disque Dur Externe SSD,202258,80,24
+25,Meubles,901290,17,25
+26,Cartes Son Externes,113496,8,26
+27,vestes,426669,93,27
+28,Lecteurs Optique Externe,238889,31,28
+29,Disques Durs Internes,734408,51,29
+30,Gaming,124969,34,30
+31,Meubles,765401,97,31
+32,Cocottes & Plats de Cuisson,333861,36,32
+33,Literie,167024,81,33
+34,Clé USB,855162,79,34
+35,Meubles,299711,94,35
+36,Windows,394547,89,36
+37,Ensemble Pyjama,674997,37,37
+38,Ventilateurs,591570,63,38
+39,Pantalon,640181,20,39
+40,Ventilateurs,984815,67,40
+41,Hauts ,604564,72,41
+42,Imprimantes,858380,0,42
+43,Souris,394928,4,43
+44,Casseroles,487965,60,44
+45,Quincaillerie,545697,29,45
+46,Imprimantes,163324,56,46
+47,Ventilateurs,429932,0,47
+48,Disques Durs Internes,168411,13,48
+49,Manteaux,783796,63,49
+50,Ventilateurs,165441,98,50
